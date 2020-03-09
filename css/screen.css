@@ -200,7 +200,7 @@ a:focus {
     width: 56px;
     height: 56px;
     border-radius: 100%;
-    margin-right: 16px;
+    /* margin-right: 16px; */
 }
 
 /* Small devices (landscape phones, 576px and up) */
